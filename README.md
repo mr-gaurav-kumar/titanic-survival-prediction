@@ -58,7 +58,6 @@ Target Variable:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Models Building
 - XGBoost
 - LightGBM
 
