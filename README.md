@@ -4,6 +4,8 @@ End-to-end Machine Learning project on the Titanic dataset including EDA, data p
 -------------------------------------------------------------------------------------------------------------------------------
 
 # 🚢 Titanic Survival Prediction using Machine Learning
+<img width="1356" height="732" alt="image" src="https://github.com/user-attachments/assets/4c6011cc-165d-4787-bfa7-93f04d0d010b" />
+
 
 ![Titanic Ship](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
 
