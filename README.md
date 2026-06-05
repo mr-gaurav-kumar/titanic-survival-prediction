@@ -92,6 +92,8 @@ This helped identify:
 
 Exploratory Data Analysis was performed to understand survival patterns and relationships between different features.
 
+---
+
 ## Analysis Performed
 
 ### ✅ Survival Distribution
